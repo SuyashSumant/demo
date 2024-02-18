@@ -1,5 +1,5 @@
 # demo
 This is my first repo
 <br>
-Author-Suyash Sumant
+Author-Suyash Sumant(WIT)
 
